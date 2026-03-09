@@ -4,7 +4,8 @@ My plan for today it is simple Fullstack aplication, which allows users: create 
 
 This application will help you easily and effectively plan your daily tasks.
 
-<img width="1790" height="1065" alt="Rectangle (17)" src="https://github.com/user-attachments/assets/89d78780-133c-4b39-9828-b60213c2d1bc" />
+<img width="1790" height="1065" alt="Rectangle (17)" src="https://github.com/user-attachments/assets/14d0be5a-8564-498b-833c-219550e18541" />
+
 
 
 ## Functionalities:
